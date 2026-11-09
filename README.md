@@ -1,12 +1,1 @@
-# mercadinho_bom_bairro
-MVP para validação de fluxo de gestão de almoxarifado e manutenção.
-Funcionalidades
-Cadastro de solicitação
-Consulta de status
-Visualização de resultados
-Tecnologias
-HTML
-CSS
-JavaScript
-Autor
-Charles de Souza Rodrigues
+<img width="3046" height="2268" alt="image" src="https://github.com/user-attachments/assets/95eeb59f-63f7-46b3-931a-73312c79fc1e" />
