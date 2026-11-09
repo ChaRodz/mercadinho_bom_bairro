@@ -1,1 +1,13 @@
+const calcularTotal = require('./produto');
 
+test('calcula corretamente o valor total da compra', () => {
+    expect(calcularTotal(2, 5)).toBe(10);
+});
+
+test('retorna zero quando a quantidade é zero', () => {
+    expect(calcularTotal(0, 5)).toBe(0);
+});
+
+test('calcula corretamente valores decimais', () => {
+    expect(calcularTotal(2, 3.5)).toBe(7);
+});
